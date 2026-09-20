@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/</loc>
-  </url>
-
-  <url>
-    <loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/strategic-sourcing-india/</loc>
-  </url>
-
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/about-jsrecs/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/evidence/export/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/evidence/procurement/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/evidence/quality/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/evidence/registrations/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/evidence/supplier/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/evidence/technical/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/comparing-indian-suppliers/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/export-documentation/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/qualifying-indian-manufacturers/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-calcined-dolomite/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-fasteners-from-india/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-ferroalloys/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-from-india/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-hard-burnt-quick-lime/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-hydrated-lime/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-quick-lime/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-rice-from-india/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/sourcing-tobacco-from-india/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/guides/verifying-coa/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/indian-manufacturer-qualification/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/industrial-procurement-india/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/fasteners/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/ferroalloys/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/ferroalloys/ferrochrome/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/ferroalloys/ferromanganese/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/ferroalloys/silicomanganese/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/industrial-minerals/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/industrial-minerals/calcined-dolomite/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/industrial-minerals/hard-burnt-quick-lime/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/industrial-minerals/hydrated-lime/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/industrial-minerals/quick-lime/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/rice/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/products/tobacco/</loc></url>
+  <url><loc>https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/supplier-verification-india/</loc></url>
 </urlset>
