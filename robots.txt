@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atulmane-jsrecs.github.io/jsrecs-procurement-knowledge/sitemap.xml
